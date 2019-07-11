@@ -8,6 +8,7 @@ int main()
     printf("Test branch testing\n");
     printf("This is a change pertaining to issue");
     printf("Issue was not solved");
+    printf("Fixing the issue");
     printf(" This is Test branch 2 test");
     return 0;
 }
